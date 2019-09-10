@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "description": "Comfortable with modern JS stack, experience with React.",
+    "employment_type": "part_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 2,
+    "title": "Software engineer",
+    "description": "Analysis, logical thinking, teamwork and attention to detail.",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 3,
+    "title": "Systems analyst",
+    "description": "Ability to extract and analyse information, good communication, persuasion and sensitivity.",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 4,
+    "title": "Business analyst",
+    "description": "Communication, presentation, facilitation, project management and problem solving.",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 5,
+    "title": "Technical support",
+    "description": "Wide ranging tech knowledge, problem solving, communication/listening, patience and diplomacy.",
+    "employment_type": "part_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 6,
+    "title": "Network engineer",
+    "description": "Specialist network knowledge, communication, planning, analysis and problem solving.",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 7,
+    "title": "Technical consultant",
+    "description": "Communication, presentation, technical and business understanding, project management and teamwork.",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 8,
+    "title": "Technical sales",
+    "description": "Product knowledge, persuasion, interpersonal skills, drive, mobility and business awareness.",
+    "employment_type": "part_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 9,
+    "title": "Project manager",
+    "description": "Organisation, problem solving, communication, clear thinking, and the ability to stay calm under pressure.",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 10,
+    "title": "Web developer",
+    "description": "Basic understanding of web technologies (client side, server side and databases), analytical thinking, problem solving and creativity.",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 11,
+    "title": "Software tester",
+    "description": "Attention to detail, creativity, organisation, analytical and investigative thinking, and communication.",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 12,
+    "title": "Senior Web Administrator",
+    "description": "Deployment Support development teams on production sites and development areas.",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  },
+  {
+    "id": 13,
+    "title": ".NET Developer",
+    "description": "Collaboratively work with others to build and maintain various projects for a wide range of clients",
+    "employment_type": "full_time",
+    "image":"http://lorempixel.com/400/200"
+  }
+]
